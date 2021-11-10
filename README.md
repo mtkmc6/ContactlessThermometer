@@ -1,1 +1,1 @@
-# ContactlessThermometer
+# Contactless-Thermometor
